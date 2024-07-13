@@ -5,9 +5,11 @@ A new Flutter project. This app consists of a set of 6 questions related to Flut
 ## How to run?
 
 - First, fork the project.
-- Clone the project into your system.
-- Navigate to the lib folder.
-- Run the main.dart file
+- Clone the project into your system. (Visual Studio Code recommended)
+- Have an emulator up running. You would need Android Studio installed for it.
+- You would need a macOS if you are intended to run on an iOS device. You can even use your own device by enabling the debugging options in your system settings.
+- Once successful, navigate to the lib folder.
+- Run the main.dart file.
 
 ## Experience
 
